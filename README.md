@@ -103,6 +103,9 @@ Le projet réponds à cet attente !
 
 ### Built With
 
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [SCSS](https://docs.gitlab.com/ee/development/fe_guide/style/scss.html)
 * [Javascript](https://devdocs.io/javascript/)
 * [Bash](https://devdocs.io/bash/)
 * [EXP](https://linux.die.net/man/1/expect)
