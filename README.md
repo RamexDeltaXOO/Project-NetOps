@@ -160,7 +160,7 @@ _For more examples, please refer to the [Documentation](https://github.com/Ramex
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add possibility to create Vlan automatically via web interface
+- [x] Add possibility to create Vlan automatically via web interface
 - [ ] Add possibility to modify Vlan automatically via web interface
 - [ ] Add possibility to delete Vlan automatically via web interface
 - [ ] Multi-language Support
