@@ -87,7 +87,7 @@
 * EN QUOI CONSISTE NOTRE PROJET ?	
 
 Le projet est assez simple à comprendre.
-Ca consiste a créer une interface WEB assez simple d’utilisation, qui créer des VLAN.
+Elle consiste a créer une interface WEB assez simple d’utilisation, qui créer des VLAN.
 
 * POURQUOI ?
 
