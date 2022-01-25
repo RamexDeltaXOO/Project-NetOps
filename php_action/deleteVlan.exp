@@ -1,0 +1,12 @@
+#!/usr/bin/expect
+set host [lindex $argv 0];
+set user [lindex $argv 1];
+set password [lindex $argv 2];
+set vlan [lindex $argv 3];
+set ip [lindex $argv 4]
+eval spawn plink -ssh -l $user -pw $password -no-antispoof $host
+send "system-view\n"
+send "undo vlan $vlan\n"
+send "quit\n"
+expect eof
+exit
