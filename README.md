@@ -161,13 +161,13 @@ _For more examples, please refer to the [Documentation](https://github.com/Ramex
 ## Roadmap
 
 - [x] Add possibility to create Vlan automatically via web interface
-- [ ] Add possibility to modify Vlan automatically via web interface
-- [ ] Add possibility to delete Vlan automatically via web interface
-- [ ] Multi-language Support
-    - [ ] French
-    - [ ] English
-    - [ ] Spanish
-    - [ ] Arabic
+- [x] Add possibility to modify Vlan automatically via web interface
+- [x] Add possibility to delete Vlan automatically via web interface
+- [x] Multi-language Support
+    - [x] French
+    - [x] English
+    - [x] Spanish
+    - [x] Arabic
 
 See the [open issues](https://github.com/RamexDeltaXOO/Project-NetOps/issues) for a full list of proposed features (and known issues).
 
