@@ -33,7 +33,7 @@
     <img src="logo.png" alt="Logo" width="128" height="80">
   </a>
 
-  <h3 align="center">NetOps - Project</h3>
+  <h3 align="center">NetOps - Project Groupe ESIEA/INTECH</h3>
 
   <p align="center">
     Voici notre projet qui nous permet de créer des VLANS en 1 seconde !
